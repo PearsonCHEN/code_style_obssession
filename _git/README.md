@@ -13,7 +13,6 @@ Categorizing commit message is a good habit. It provide with good navigations fo
 
 <body>
 
-<footer>
 ```
 
 ##### Possible Type
