@@ -1,6 +1,6 @@
 # Git
 
-[Tips](https://medium.com/walmartlabs/check-out-these-5-git-tips-before-your-next-commit-c1c7a5ae34d1) for `Commit`. 
+First read [Tips](https://medium.com/walmartlabs/check-out-these-5-git-tips-before-your-next-commit-c1c7a5ae34d1) for `Commit` and [Tips](https://gist.github.com/digitaljhelms/4287848) for naming branches. 
 
 #### Git Commit Messages
 
@@ -34,3 +34,7 @@ Summary in few words.
 - includes motivation for the change and contrasts with previous behavior
 
 More on [365git](https://365git.tumblr.com/post/3308646748/writing-git-commit-messages), Tim Pope's [blog](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+
+## To Be Done
+
+Reorganize tips for naming branches.
