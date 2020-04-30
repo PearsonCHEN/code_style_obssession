@@ -11,3 +11,17 @@ Here are some performance tips for doing large scale nonlinear optimization in J
 3. Write **type-stable** code. Make sure types of all variables do not vary over time.
 4. **No global variables**(use `const` if must). Treat parameters as `NamedTuple` by using the package `Parameters`. 
 
+### Must-known Packages
+
+- Pkg
+
+  Pkg is a basic but very important package for replicapable research. It provides with excellent package management system. Basic usages please check [here](https://julialang.github.io/Pkg.jl/v1/). For replicapable research, see part 4 for [environments](https://julialang.github.io/Pkg.jl/v1/environments/) and part 10 for [package management](https://julialang.github.io/Pkg.jl/v1/toml-files/). Please check [glossory](https://julialang.github.io/Pkg.jl/v1/glossary/) for related terminology.
+
+- Revise
+
+  
+  
+  
+
+
+
